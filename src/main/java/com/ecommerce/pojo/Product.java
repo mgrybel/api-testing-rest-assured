@@ -1,4 +1,3 @@
-
 package com.ecommerce.pojo;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
@@ -79,5 +78,4 @@ public class Product {
     public void setStock(Integer stock) {
         this.stock = stock;
     }
-
 }
