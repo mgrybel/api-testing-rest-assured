@@ -12,7 +12,7 @@ Install the following prerequisites:
 4. [Visual Studio Code](https://code.visualstudio.com/download) with two extensions installed:
 - [Language Support for Java(TM) by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.java)
 - [Maven for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven)
-  <br />
+<br /><br />
 You can also use [IntelliJ IDEA](https://www.jetbrains.com/idea/download/) or [Eclipse](https://eclipseide.org/).
 
 ## System Under Test (SUT)
