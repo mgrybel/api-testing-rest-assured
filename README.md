@@ -9,9 +9,11 @@ Install the following prerequisites:
 1. [Oracle JDK](https://www.oracle.com/java/technologies/downloads/) or [OpenJDK](https://openjdk.org/)
 2. [Node.js](https://nodejs.org/en/)
 3. [PostgreSQL](https://www.postgresql.org/download/)
-4. [Visual Studio Code](https://code.visualstudio.com/download) with two extensions installed: **Language Support for Java(TM) by Red Hat** and **Maven for Java**.
-* [Language Support for Java(TM) by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.java) provides Java language support for Visual Studio Code.
-* [Maven for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven) provides a project explorer and shortcuts to execute Maven commands, improving the user experience for Java developers who use Maven.
+4. [Visual Studio Code](https://code.visualstudio.com/download) with two extensions installed:
+
+- [Language Support for Java(TM) by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.java)
+- [Maven for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven)
+  You can also use [IntelliJ IDEA](https://www.jetbrains.com/idea/download/) or [Eclipse](https://eclipseide.org/).
 
 ## System Under Test (SUT)
 
