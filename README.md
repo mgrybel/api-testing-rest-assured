@@ -2,6 +2,15 @@
 
 Automated API tests of an e-commerce application built using **REST Assured**.
 
+## Table of Contents
+
+- [Prerequisites](#prerequisites)
+- [System Under Test (SUT)](#system-under-test-sut)
+- [Download the project](#download-the-project)
+- [Installation](#installation)
+- [Run tests](#run-tests)
+- [Generate the Allure report](#generate-the-allure-report)
+
 ## Prerequisites
 
 Install the following prerequisites:
